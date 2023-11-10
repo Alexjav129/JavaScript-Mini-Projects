@@ -5,5 +5,5 @@
 
 
 # 🏅2.Counter
-There are some methods, array methods that you can't run on a NodeList so you would need to transform it into an array
+There are some methods, array methods that you can't run on a NodeList so you would need to transform it into an array <br/>
 For each we can run it on our NodeList
