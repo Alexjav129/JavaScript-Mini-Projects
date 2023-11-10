@@ -11,5 +11,9 @@ For each we can run it on our NodeList
 ![Screenshot 2023-11-09 at 11 29 12 p m](https://github.com/Alexjav129/JavaScript-Mini-Projects/assets/78135846/9837ba55-807f-4ba0-8924-05fce8135f8e)
 ![Screenshot 2023-11-09 at 11 29 27 p m](https://github.com/Alexjav129/JavaScript-Mini-Projects/assets/78135846/2d2bb96b-0de2-4d6e-b4c7-1be21cb3ec23)
 
+Questions while coding 🤔
+1. Why I can't use styles.includes() instead of styles.contains() ??? <br/>
+-The contains method returns a boolean value, true if the class is present, and false otherwise. <br/>
+-On the other hand, the includes method is not a method of DOMTokenList. It is a method of arrays in JavaScript. So, if you try to use styles.includes(), you will likely get an error because includes is not a method of DOMTokenList.
 
 # 🏅3.Reviews/Quotes
