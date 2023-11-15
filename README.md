@@ -24,3 +24,4 @@ Questions while coding 🤔
 Normally you would get this type of data using AJAX requests, so it would be somewhere else. And then you would just perform a HTTP request. <br/>
 But in this case we are using data locally, it's just an array of objects. Each object represents a different person, with different name, job, img and text.
 
+Event DOMContentLoaded
