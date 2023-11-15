@@ -22,5 +22,5 @@ Questions while coding 🤔
 ![Screenshot 2023-11-14 at 11 34 10 p m](https://github.com/Alexjav129/JavaScript-Mini-Projects/assets/78135846/83238687-8921-47f1-be8f-a491fcdfeb8b)
 
 Normally you would get this type of data using AJAX requests, so it would be somewhere else. And then you would just perform a HTTP request. <br/>
-But in this case we are using data locallym, it's just an array of objects. Each object represents a different person, with different name, job, img and text.
+But in this case we are using data locally, it's just an array of objects. Each object represents a different person, with different name, job, img and text.
 
